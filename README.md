@@ -14,30 +14,30 @@ Plusieurs étiquettes pourront être attribués à votre bug :
 
 * **Amélioration** <br>
 Nécessite une amélioration du système actuel.
-<br>
+
 * **Bonne pratique** <br>
 Bug rapporté de manière correcte.
-<br>
+
 * **Bug B** <br>
 Bug blocant l'utilisateur, traité en priorité.
-<br>
+
  * **Bug NB** <br>
 Bug non bloquant, traité en secondaire.
-<br>
+
 * **Doc** <br>
 Documentation
-<br>
+
 * **Duplicatat** <br>
 Bug déjà rapporté par un autre joueur.
-<br>
+
 * **En attente d'instruction** <br>
 Le bug à été transmis au(x) développeur(s).
-<br> 
+
 * **Format incorrect** <br>
 Le format ne convient pas
 Format attendu décrit ici : <br>
 https://github.com/jumalley/JuFx-Issues/blob/main/format-attendu
-<br>
+
 * **Nécessite plus d'informations** <br>
 Pas assez d'informations afin de traiter
 Merci de fournir plus de détails.
