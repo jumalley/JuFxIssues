@@ -8,43 +8,52 @@ Le but est de reproduire le bug afin de mieux comprendre le chemin à l'origine 
 
 *Toute contribution pourra être récompensée conformément au bug rapporté.*
 
-Plusieurs labels pourront être attribué à votre bug :
+
+
+Plusieurs étiquettes pourront être attribués à votre bug :
 
 **Amélioration**
-
-Nécessite une amélioration du système actuel
+Nécessite une amélioration du système actuel.
  
-**Bonne pratique**
 
-Bug rapporté de manière correcte
+
+**Bonne pratique**
+Bug rapporté de manière correcte.
+
+
  
 **Bug B**
-
-Bug blocant l'utilisateur
+Bug blocant l'utilisateur, traité en priorité.
+ 
+ 
  
 **Bug nb**
-
-Bug non bloquant
+Bug non bloquant, traité en secondaire.
+ 
+ 
  
 **Doc**
-
 Documentation
  
+ 
+ 
 **Duplicatat**
-
-Bug déjà rapporté
+Bug déjà rapporté par un autre joueur.
+ 
+ 
  
 **En attente d'instruction**
-
-Le bug à été transmis au(x) développeur(s)
+Le bug à été transmis au(x) développeur(s).
+ 
+ 
  
 **Format incorrect**
-
 Le format ne convient pas
 Format attendu décrit ici :
+https://github.com/jumalley/JuFx-Issues/blob/main/format-attendu
+
 
 
 **Nécessite plus d'informations**
-
 Pas assez d'informations afin de traiter
 Merci de fournir plus de détails.
