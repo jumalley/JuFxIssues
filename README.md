@@ -6,7 +6,7 @@ Merci d'être le plus précis possible, de fournir des screens générés dans l
 <br>
 Le but est de reproduire le bug afin de mieux comprendre le chemin à l'origine de cette erreur.
 <br>
-*Toute contribution pourra être récompensée conformément au bug rapporté.*
+Toute contribution pourra être récompensée conformément au bug rapporté.
 <br>
 <br>
 <br>
