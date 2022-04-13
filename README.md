@@ -2,7 +2,7 @@
 
 ## Ce repo a pour vocation de récupérer les différents bugs et améliorations du serveur.
  <br>
-Merci d'être le plus précis possible, de fournir des **screens** générés dans la **console client** lors du bug, *afin de pouvoir identifier les problèmes le plus rapidement possible et ainsi les régler dans les plus brefs délais*.
+Merci d'être le plus précis possible, de fournir des screens générés dans la console client (F8) lors du bug, afin de pouvoir identifier les problèmes le plus rapidement possible et ainsi les régler dans les plus brefs délais.
 <br>
 Le but est de reproduire le bug afin de mieux comprendre le chemin à l'origine de cette erreur.
 <br>
