@@ -10,7 +10,7 @@ Toute contribution pourra être récompensée conformément au bug rapporté.
 <br> 
 <br> 
 <br> 
-Plusieurs étiquettes pourront être attribués à votre bug :
+Plusieurs étiquettes pourront être attribués à votre rapport de bug / demande d'amélioration :
 
 * **Amélioration** <br>
 Nécessite une amélioration du système actuel.
